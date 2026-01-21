@@ -12,7 +12,7 @@ authentication module using Selenium and Pytest.
 
 ## Test Report
 🔗 View execution report here:
-https://thirupathisindhu.github.io/QA-Automation/
+file:///Users/thirupathisindhu/qa_automation_project/index.html?sort=result
 
 ## Tools Used
 - Python
@@ -20,3 +20,4 @@ https://thirupathisindhu.github.io/QA-Automation/
 - Pytest
 - pytest-html
 - GitHub Pages
+
